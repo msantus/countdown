@@ -1,4 +1,3 @@
-
 /**
 * @fileoverview Homepage experience animation functionality.
 * This file includes all functionality to render the countdown
@@ -771,7 +770,7 @@ var digitColors = ['265897', '265897', '265897', '',
   /**
     * Get the date we're counting down to.
     */
-  var countdownTo = new Date(2013, 6, 31, 23, 59, 59).getTime();
+  var countdownTo = new Date(2014, 2, 28, 23, 59, 59).getTime();
 
   /**
     * Buckets for the Digits.
